@@ -1,8 +1,18 @@
-# README #
+# MECHANICAL - HTC Vive Gantry #
 
-Mechanical Files for VR Gantry Project
+![](https://cdn-images-1.medium.com/max/800/1*L0-0M3ktUiBQcZHqOwzkyA.gif)
+
+Mechanical files for VR Gantry project.
+
+### Dependencies ###
+[Software Repository](https://github.com/MistyWestAdmin/VR-Gantry-Software)<br>
+[Firmware Repository](https://github.com/MistyWestAdmin/VR-Gantry-Firmware)
 
 ### Contact ###
 
-* Repo owner: Justin
-* Contributors: Div
+* Repo owner: Justin / Mistywest
+* [Mistywest](https://mistywest.com/)
+<br><br>
+![](https://mistywest.com/wp-content/uploads/2015/11/logo_sticky.png)
+<br>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
