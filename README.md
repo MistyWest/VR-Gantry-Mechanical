@@ -6,17 +6,4 @@
 
 SolidWork 2015 design files for the VR Gantry project.
 
-Link to Bill of Materials: [MW05 BOM RevD](https://github.com/MistyWestAdmin/VR-Gantry-Mechanical/blob/master/RevD/MW05%20BOM%20RevD.xlsx)
-
-### Dependencies ###
-[Software Repository](https://github.com/MistyWestAdmin/VR-Gantry-Software)<br>
-[Firmware Repository](https://github.com/MistyWestAdmin/VR-Gantry-Firmware)
-
-### Contact ###
-
-* Repo owner: Justin / Mistywest
-* [Mistywest](https://mistywest.com/)
-<br><br>
-![](https://mistywest.com/wp-content/uploads/2015/11/logo_sticky.png)
-<br>
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The repository is moved to https://bitbucket.org/mw_active/vr-gantry-mechanical
